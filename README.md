@@ -19,7 +19,7 @@ Solo se instala una vez. Después, el editor se actualiza solo cada vez que lo a
 
 Si quieres estar seguro de que el archivo no cambió, compara este código con el que te pase quien te dio el editor:
 
-SHA-256 de InstalarEditorDeVideo.exe: 39fb5777773356dea2848a499ee2fdf37bee7b43f863bfc442ed5aae9aa3a60d
+SHA-256 de InstalarEditorDeVideo.exe: 692a6b1044a6b6d47c016335fa31284a979eac62d8123f4449d1fc22844e05b3
 
 ## Si algo no funciona
 
