@@ -19,7 +19,11 @@ Solo se instala una vez. Después, el editor se actualiza solo cada vez que lo a
 
 Si quieres estar seguro de que el archivo no cambió, compara este código con el que te pase quien te dio el editor:
 
-SHA-256 de InstalarEditorDeVideo.exe: 1b2655725d430e153c43caa67f9a248d6134079e1764c816cdf9db6715b1d09f
+SHA-256 de InstalarEditorDeVideo.exe: cf05d0700a034b5058399c2293c0203494c855132faad6d196fb484c6afa5393
+
+## Si el editor vuelve a una versión anterior
+
+Si una actualización falla, el editor vuelve solo a la versión que tenías. Si esa versión es anterior a la 1.17.0, no puede abrir los proyectos donde agregaste un video sin copiarlo. No borres nada: esos proyectos se abren otra vez cuando el editor se actualice. Avisa a quien te pasó el editor.
 
 ## Si algo no funciona
 
